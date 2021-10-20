@@ -1,2 +1,2 @@
-Hello, world!
 Is is a good day!
+Hello, Git!
