@@ -1,3 +1,4 @@
 Is is a good day!
 Hello, Git!
 Hello, world!
+Hello, Git rebase!
